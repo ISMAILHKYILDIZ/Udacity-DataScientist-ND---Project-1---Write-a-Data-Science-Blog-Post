@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-"# DataScientist_ND---Project1" 
-=======
-# Udacity-DataScientist-ND---Prj-1---Write-a-Data-Science-Blog-Post
 
 Project 1 of Data Science Nano Degree 
 
